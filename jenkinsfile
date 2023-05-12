@@ -5,7 +5,7 @@ pipeline {
             steps {
                 echo "Clarusway_Way to Reinvent Yourself"
                 sh 'echo using shell within Jenkinsfile - tri'
-                echo 'not using shell in the jenkinsfile'
+                echo 'not using shell in the jenkinsfile tigger'
             }
         }
     }
